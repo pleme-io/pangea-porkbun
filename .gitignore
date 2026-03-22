@@ -1,0 +1,7 @@
+*
+!flake.nix
+!flake.lock
+!fleet.yaml
+!.gitignore
+!CLAUDE.md
+!README.md
