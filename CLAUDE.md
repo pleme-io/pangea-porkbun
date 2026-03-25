@@ -1,1 +1,1 @@
-/nix/store/qcdv385jia46gdih8z29ypvnrkgmqpc1-home-manager-files/code/github/pleme-io/CLAUDE.md
+/nix/store/qnr2r3f3hj4kvg48jh19ys7dn8g8vp8y-home-manager-files/code/github/pleme-io/CLAUDE.md
