@@ -5,3 +5,8 @@
 !.gitignore
 !CLAUDE.md
 !README.md
+!pangea-porkbun.gemspec
+!lib/
+!lib/**
+!Gemfile
+!Gemfile.lock
