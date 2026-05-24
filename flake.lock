@@ -723,11 +723,11 @@
         "substrate": "substrate"
       },
       "locked": {
-        "lastModified": 1779423295,
-        "narHash": "sha256-pEmscbo9PEF2gRo/eiWkQFcflGhoJJUby6YU0SI9EAM=",
+        "lastModified": 1779655797,
+        "narHash": "sha256-Kk2qPwg+OhmN9b0uUOaDAWXytzAH+nR2dXfVIS/4W8s=",
         "owner": "pleme-io",
         "repo": "fleet",
-        "rev": "8471c86e55c8f540ea63b3a50b182d71c456e6ed",
+        "rev": "eb6eb09212230a78b414d9bf3a4bcfd62963207e",
         "type": "github"
       },
       "original": {
@@ -1462,11 +1462,11 @@
     },
     "nixpkgs_8": {
       "locked": {
-        "lastModified": 1779102034,
-        "narHash": "sha256-vZJZjLo513IeI8hjzHFc6TDezUd4uCE2Eq4SNO3DNNg=",
+        "lastModified": 1779467186,
+        "narHash": "sha256-nOesoDCiXcUftqbRBMz9tt4blI5PvljMWbm3kuCA+0s=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "687f05a9184cad4eaf905c48b63649e3a86f5433",
+        "rev": "b77b3de8775677f84492abe84635f87b0e153f0f",
         "type": "github"
       },
       "original": {
